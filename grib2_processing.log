@@ -1,0 +1,14 @@
+2025-02-20 04:54:51,344 - INFO - Successfully loaded Outputs/final_dataset.nc
+2025-02-20 04:54:51,344 - INFO - Available variables: ['stl1', 'swvl1', 't2m', 'tp', 'smlt']
+2025-02-20 04:54:51,416 - INFO - Forecast Steps: [             0  3600000000000  7200000000000 10800000000000
+ 14400000000000]
+2025-02-20 04:54:51,417 - INFO - Valid Times: ['2025-02-11T00:00:00.000000000' '2025-02-11T01:00:00.000000000'
+ '2025-02-11T02:00:00.000000000' '2025-02-11T03:00:00.000000000'
+ '2025-02-11T04:00:00.000000000']
+2025-02-20 04:54:55,764 - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2025-02-20 04:55:03,013 - INFO - GIF saved as 'Outputs/temperature_forecast.gif'
+2025-02-20 04:55:17,717 - INFO - Generating 3D temperature map...
+2025-02-20 04:55:17,737 - INFO - Successfully loaded Outputs/final_dataset.nc
+2025-02-20 04:55:17,737 - INFO - Available variables: ['stl1', 'swvl1', 't2m', 'tp', 'smlt']
+2025-02-20 04:55:18,335 - INFO - 3D Temperature map saved as Outputs/3d_map.png
+2025-02-20 04:55:19,821 - INFO - Exporting temperature data to Google Earth KML format...
