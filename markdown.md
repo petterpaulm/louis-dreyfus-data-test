@@ -5,7 +5,6 @@
 ![Intro GIF](./Support/noaa_gif.gif)
 
 📌 **Author:** Pedro Mendes
-📌 **Email:** [petter.mendes@outlook.com](mailto:petter.mendes@outlook.com)
 
 ---
 
@@ -169,4 +168,3 @@ python export_to_kml.py
 
 This project demonstrates **efficient data engineering techniques** for **large-scale meteorological data processing**. It covers **end-to-end data extraction, transformation, visualization, and export**, showcasing **best practices in Python, xarray, and GIS tools**.
 
-**📬 Questions? Reach out at [petter.mendes@outlook.com](mailto:petter.mendes@outlook.com).** 🚀
